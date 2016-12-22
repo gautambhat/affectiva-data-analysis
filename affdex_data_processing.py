@@ -262,7 +262,7 @@ result = result.append(R_gb7, ignore_index=True)
 
 print(result.shape,'\n')
 
-result.to_csv('/Users/gautambhat/Downloads/finalResult.csv');
+result.to_csv('/Users/gautambhat/Downloads/finalResult.csv')
 
 
 #"""
