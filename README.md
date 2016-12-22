@@ -11,7 +11,7 @@ Data preprocessing and neural network-based analysis of Affectiva's video data, 
 -----
 
 
-Our aim was to get all the data that Affectiva's Affdex C++ API [link](https://github.com/Affectiva/cpp-sdk-samples) provides, and evaluate its performance in detecting student frustration. We also, wanted to validate the accuracy of the emotions it classifies, based on manual marking on videos based on three emotions - frustrated, engaged, and tired.
+Our aim was to get all the data that Affectiva's Affdex C++ API [ (link) ](https://github.com/Affectiva/cpp-sdk-samples) provides, and evaluate its performance in detecting student frustration. We also, wanted to validate the accuracy of the emotions it classifies, based on manual marking on videos based on three emotions - frustrated, engaged, and tired.
 
 We processed the data appropriately to be fed into a neural network that we trained to accurately detect when a student is frustrated, engaged, and/or tired. As of now, we are a bit short on data.
 
